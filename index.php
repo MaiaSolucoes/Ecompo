@@ -1,1 +1,2 @@
-oi
+<?php
+print "oi";
