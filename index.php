@@ -1,2 +1,2 @@
 <?php
-print "alo";
+print "al";
